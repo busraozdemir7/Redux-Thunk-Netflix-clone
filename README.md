@@ -50,9 +50,4 @@ https://github.com/user-attachments/assets/a175a601-6bdb-481a-933b-1b083094b7df
 
 ### Screen 
 
-
-<a href="https://drive.google.com/uc?export=view&id=174cT6LAz-maz81GKQGcwwrKOAMlGBol-"><img src="https://drive.google.com/uc?export=view&id=174cT6LAz-maz81GKQGcwwrKOAMlGBol-" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
-
-![test](https://drive.usercontent.google.com/download?id=174cT6LAz-maz81GKQGcwwrKOAMlGBol-&export=view&authuser=0)
-
 ![](screen.gif)
