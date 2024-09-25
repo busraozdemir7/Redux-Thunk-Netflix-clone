@@ -14,7 +14,7 @@
 
 ## Resim Temel Url
 
-https://github.com/user-attachments/assets/a175a601-6bdb-481a-933b-1b083094b7df
+https://github.com/user-attachments/assets/a175a601-6bdb-481a-933b-1b083094b7df 
 
 
 
@@ -50,4 +50,4 @@ https://github.com/user-attachments/assets/a175a601-6bdb-481a-933b-1b083094b7df
 
 ### Screen 
 
-![](screen.gif)
+<img src="screen.gif" />
